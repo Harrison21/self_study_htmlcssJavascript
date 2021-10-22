@@ -1,0 +1,12 @@
+.title span {
+    background-color: cornflowerblue;
+}
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
